@@ -15,14 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@mehraabsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mehraabsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehraab-singh-42a4b728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehraab-singh-42a4b728b" height="30" width="40" /></a>
 <a href="https://instagram.com/imehraabsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imehraabsingh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mehaabsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mehaabsingh" height="30" width="40" /></a>
+<a href="https://hashnode.com/@mehraabsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mehaabsingh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imehraabsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imehraabsingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/singhmehraab32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/singhmehraab32" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mehraab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mehraab/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/singhmehraab32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/singhmehraab32" height="30" width="40" /></a>
+<a href="https://leetcode.com/mehraab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mehraab/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@singhmehraab32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@singhmehraab32" height="30" width="40" /></a>
+<a href="https://dev.to/@mehraabsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mehraabsingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
