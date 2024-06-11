@@ -31,7 +31,10 @@
 ## 📜Certificates:
 <p>
 <img src="https://github.com/mehraabsingh/mehraabsingh/assets/152207610/3c0a51ef-f2c5-4fcb-ac27-cba49e1ca195" alt="Python_for_Beginners" width=200px"></a>
-<img src="https://github.com/mehraabsingh/mehraabsingh/assets/152207610/1d6455bb-ff32-41fc-9bc0-b5d279b11a94" alt="C_for_Beginners" width=200px"></a>
+<img src="https://github.com/mehraabsingh/mehraabsingh/assets/152207610/1d6455bb-ff32-41fc-9bc0-b5d279b11a94" alt="C_Basic" width=200px"></a>
+<img src="https://github.com/mehraabsingh/mehraabsingh/assets/152207610/7c5494b2-d7cf-44d8-9f2a-5895782f0a5c" alt="Css_Basic" width=200px"></a>
+<img src="https://github.com/mehraabsingh/mehraabsingh/assets/152207610/8b60fe2a-f61f-4a7d-b09d-6e35a428bb30" alt="C_Basic" width=200px"></a>
+<img src="https://github.com/mehraabsingh/mehraabsingh/assets/152207610/10c445c0-07df-481c-aee0-bbd98cb25106" alt="C_Intermediate" width=200px"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehraabsingh&show_icons=true&locale=en&layout=compact" alt="mehraabsingh" /></p>
