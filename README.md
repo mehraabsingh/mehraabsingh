@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehraab Singh</h1>
 <h3 align="center">Passionate Web Developer with Proficiency in Python | C, HTML, CSS, JavaScript Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehraabsingh&label=Profile%20views&color=0e75b6&style=flat" alt="mehraabsingh" /> </p>
 
