@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehraab Singh</h1>
-<h3 align="center">Passionate Web Developer with Proficiency in Python | C, HTML, CSS, JavaScript Enthusiast</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&random=false&width=704&height=100&lines=Passionate+Web+Developer+with+%3A;Proficiency+in+Python+%7C+C%2C+HTML%2C+CSS%2C+JavaScript+Enthusiast)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960">
 
