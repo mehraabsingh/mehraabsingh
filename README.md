@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mehraab-singh-42a4b728b/](https://www.linkedin.com/in/mehraab-singh-42a4b728b/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/mehraab-singh-42a4b728b/)
 
 - 📫 How to reach me **singhmehraab32@gmail.com**
 
