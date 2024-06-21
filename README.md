@@ -2,32 +2,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&random=false&width=704&height=100&lines=Passionate+Web+Developer+with+%3A;Proficiency+in+Python+%7C+C%2C+HTML%2C+CSS%2C+JavaScript+Enthusiast)](https://git.io/typing-svg)
 
-<div style="font-family: Arial, sans-serif; clear: both; overflow: auto; margin-top: 20px;">
-    <div style="float: left; margin-right: 20px;">
-        <a href="https://mehraabsingh.github.io/Personal_Portfolio/" style="text-decoration: none;">
-            <img align="left" alt="coding" width="100" src="https://i.redd.it/qzkpthkpayz51.gif">
-        </a>
-    </div>
-    <div>
-        <p style="margin-bottom: 5px;">Click through this portal to explore my portfolio:</p>
-        <a href="https://mehraabsingh.github.io/Personal_Portfolio/" style="color: #0366d6; text-decoration: none; font-weight: bold;"></a>
-    </div>
-</div>
-
-
-
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehraabsingh&label=Profile%20views&color=0e75b6&style=flat" alt="mehraabsingh" /> </p>
 
 - 🔭 I’m currently working on **Coding Skills**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mehraab-singh-42a4b728b/](https://www.linkedin.com/in/mehraab-singh-42a4b728b/)
 
 - 📫 How to reach me **singhmehraab32@gmail.com**
 
+
+<h3 align="left">Click through this portal to explore my portfolio:</h3>
+<div style="font-family: Arial, sans-serif; clear: both; overflow: auto; margin-top: 20px;">
+    <div style="float: left; margin-right: 20px;">
+        <a href="https://mehraabsingh.github.io/Personal_Portfolio/" style="text-decoration: none;">
+            <img align="left" alt="coding" width="100" src="https://i.redd.it/qzkpthkpayz51.gif">
+        </a>
+    </div>
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehraab-singh-42a4b728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehraab-singh-42a4b728b" height="30" width="40" /></a>
