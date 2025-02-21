@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/mehraab-singh-42a4b728b/)
 
-- 📫 How to reach me **singhmehraab32@gmail.com**
+- 📫 How to reach me **work.mehraab@gmail.com**
 
 
 <h3 align="left">Click through this portal to explore my portfolio:</h3>
