@@ -18,7 +18,7 @@
 <h3 align="left">Click through this portal to explore my portfolio:</h3>
 <div style="font-family: Arial, sans-serif; clear: both; overflow: auto; margin-top: 20px;">
     <div style="float: left; margin-right: 20px;">
-        <a href="https://mehraabsingh.github.io/Personal_Portfolio/" style="text-decoration: none;">
+        <a href="https://mehraab.ninja" style="text-decoration: none;">
             <img align="left" alt="coding" width="100" src="https://i.redd.it/qzkpthkpayz51.gif">
         </a>
     </div>
